@@ -28,6 +28,8 @@ A responsive React application for managing personal finances with intuitive bud
 
 4) **Local Storage**
 
+5) **React local hook**
+
 ## Run
 
 **npm run start**
